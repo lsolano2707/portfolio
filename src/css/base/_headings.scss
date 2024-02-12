@@ -1,0 +1,52 @@
+h1 {
+  @apply text-6xl;
+}
+
+h2 {
+  @apply text-5xl;
+}
+
+h3 {
+  @apply text-4xl;
+}
+
+h4 {
+  @apply text-3xl;
+}
+
+h5 {
+  @apply text-2xl;
+}
+
+h6 {
+  @apply text-xl;
+}
+
+h1,
+h2 {
+  span {
+    color: $color-primary;
+    font-weight: 600;
+  }
+}
+
+p {
+  span {
+    display: none;
+  }
+}
+
+.title-with-line {
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+  margin-bottom: 15px;
+
+  &:after {
+    content: '';
+    flex: 1 1;
+    border-bottom: 1px solid currentColor;
+    margin: auto;
+    margin-left: 15px;
+  }
+}
