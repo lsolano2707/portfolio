@@ -13,7 +13,7 @@ export default {
   aboutMe: {
     title: 'About <span>Me</span>',
     description:
-      "I'm <strong>Leonardo Solano</strong> a <strong>full-stack developer</strong> with <strong>over {years}+ years of experience</strong> in the software industry. I have a lot of experience in <strong>Javascript</strong> and <strong>Typescript</strong> technologies. I love working with teams all over the world and learning about new cultures or technologies. Currently I'm living in Colombia and I would like to move to another country like Canada or USA with my family.",
+      "I'm <strong>Leonardo Solano</strong> a <strong>full-stack developer</strong> with <strong>over 12+ years of experience</strong> in the software industry. I have a lot of experience in <strong>Javascript</strong> and <strong>Typescript</strong> technologies. I love working with teams all over the world and learning about new cultures or technologies. Currently I'm living in Colombia and I would like to move to another country like Canada or USA with my family.",
   },
   profile: {
     title: "<span>Hello!</span></br> I'm Leonardo",

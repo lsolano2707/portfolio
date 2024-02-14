@@ -13,7 +13,7 @@ export default {
   aboutMe: {
     title: 'Acerca de <span>Mí</span>',
     description:
-      'Hola mi nombre es <strong>Leonardo Solano</strong> y soy un <strong>desarrollador full-stack</strong> con <strong>más de {years} años de experiencia</strong> desarrollando software. Tengo mucha experiencia en tecnologías <strong>Javascript</strong> y <strong>TypeScript</strong>. Me encanta trabajar con equipos de todo el mundo y aprender sobre nuevas culturas y tecnologías. Actualmente vivo en Colombia y me gustaría mudarme a otro país como Canadá o Estados Unidos con mi familia.',
+      'Hola mi nombre es <strong>Leonardo Solano</strong> y soy un <strong>desarrollador full-stack</strong> con <strong>más de 12 años de experiencia</strong> desarrollando software. Tengo mucha experiencia en tecnologías <strong>Javascript</strong> y <strong>TypeScript</strong>. Me encanta trabajar con equipos de todo el mundo y aprender sobre nuevas culturas y tecnologías. Actualmente vivo en Colombia y me gustaría mudarme a otro país como Canadá o Estados Unidos con mi familia.',
   },
   profile: {
     title: '<span>Hola!</span></br> Soy Leonardo',
