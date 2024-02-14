@@ -3,7 +3,7 @@
     <div class="container mx-auto px-4 mt-10">
       <div class="flex flex-wrap justify-center">
         <div class="w-72 h-72 shadow-lg border border-gray-200 rounded-full overflow-hidden">
-          <img :src="profile.img" alt="banner" class="h-full w-full" data-aos="fade-up" />
+          <img :src="profile.img" alt="banner" class="h-full w-full" />
         </div>
         <div class="w-full md:w-1/2 ml-0 md:ml-8 mt-4 md:mt-0 text-center md:text-left self-center">
           <h1 class="font-bold text-5xl mb-6" data-aos="fade-up" v-html="$t('profile.title')"></h1>
